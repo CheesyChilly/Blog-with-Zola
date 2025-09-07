@@ -7,6 +7,8 @@
   --darkMaincolor: #94e2d5;
   --subtext: #7f849c;
   --headingcolor: #a6e3a1;
+  --bodytext: "Fira Sans", sans-serif;
+  --headingtext: "Roboto Mono", monospace;
 }
 
 html {
@@ -46,12 +48,12 @@ body {
 }
 
 p {
-  font-family: "Fira Sans", sans-serif;
+  font-family: var(--bodytext);
   line-height: 1.5;
 }
 
 .description{
-  font-family: "Fira Sans", sans-serif;
+  font-family: var(--bodytext);
 }
 
 hr {
@@ -153,7 +155,7 @@ h3,
 h4,
 h5,
 h6 {
-  /* font-family: "DM Serif Display", serif; */
+  font-family: var(--headingtext);
   font-size: 1.2rem;
   margin-top: 2em;
 }
