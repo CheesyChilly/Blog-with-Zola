@@ -18,5 +18,5 @@ I write about web development 💻, cybersecurity 🔐, and sometimes random thi
 Clone this repo:
 
 ```bash
-git clone https://github.com/yourusername/yourblog.git
+git clone https://github.com/CheesyChilly/Blog-with-Zola.git
 cd yourblog
