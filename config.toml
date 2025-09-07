@@ -29,7 +29,7 @@ mode = "auto"
 # interal CDN resource
 useCDN = false
 
-favicon = "/static/icon/favicon.png"
+favicon = "/icon/favicon.png"
 
 copyright = "ankitbose"
 
