@@ -69,13 +69,12 @@
     href="https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&display=swap"
     rel="stylesheet"
   />
-  <!-- <link
+  <link
     href="https://fonts.googleapis.com/css2?family=Fira+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap"
     rel="stylesheet"
-  /> -->
+  />
   {% else %}
   <!-- <link href="{{ get_url(path='css/fonts.css') }}" rel="stylesheet" /> -->
-  <link rel="stylesheet" href="{{ get_url(path='css/fonts.css' ) }}" />
   {% endif %}
 
   <link
@@ -96,21 +95,6 @@
     )
     }}
   />
-
-  <!-- {% if config.extra.mode == "auto" or config.extra.mode == "dark" or config.extra.mode == "toggle" %}
-        <link
-            rel="stylesheet"
-            id="darkModeStyle"
-            type="text/css"
-            href={{ get_url(path="css/dark.css") }}
-            {% if config.extra.mode == "auto" %}
-                media="(prefers-color-scheme: dark)"
-            {% endif %}
-            {% if config.extra.mode == "toggle" %}
-                disabled
-            {% endif %}
-        />
-    {% endif %} -->
 
   {% if config.extra.katex_enable %}
   <link
