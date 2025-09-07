@@ -80,6 +80,10 @@ a:hover {
   color: #fff;
 }
 
+nav a{
+  color: #f5e0dc;
+}
+
 ul {
   list-style: none;
   padding-left: 2ch;
@@ -146,6 +150,9 @@ header {
 }
 
 header .main {
+  font-family: var(--headingtext);
+  color: #d0d6ff;
+  font-weight: 600;
   font-size: 1.5rem;
 }
 
