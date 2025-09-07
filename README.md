@@ -15,8 +15,4 @@ I write about web development 💻, cybersecurity 🔐, and sometimes random thi
 
 ## Getting Started ⚡
 
-Clone this repo:
-
-```bash
-git clone https://github.com/CheesyChilly/Blog-with-Zola.git
-cd yourblog
+[Zola Overview](https://www.getzola.org/documentation/getting-started/overview/)
