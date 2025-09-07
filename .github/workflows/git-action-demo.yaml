@@ -18,3 +18,5 @@ jobs:
       - run: echo "🍏 This job's status is ${{ job.status }}."
       - name: Zola Deploy to Pages
         uses: shalzz/zola-deploy-action@v0.21.0
+        env:
+          TOKEN: ${{ secrets.TOKEN }}
