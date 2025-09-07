@@ -1,7 +1,7 @@
 # My Zola Blog
 
 Welcome to my personal blog! ✨  
-Built with [Zola](https://www.getzola.org/) — a fast static site generator written in Rust.  
+Built with [Zola](https://www.getzola.org/) — a fast SSG (Static Site Generator) written in Rust.  
 
 ## About 📖
 This blog is where I share my thoughts, projects, and experiments.  
