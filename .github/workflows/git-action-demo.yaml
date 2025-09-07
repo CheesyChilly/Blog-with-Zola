@@ -18,6 +18,9 @@ jobs:
           curl -s https://get.zola.rs | bash
           echo "$HOME/.cargo/bin" >> $GITHUB_PATH
 
+      - name: Verify Zola install
+        run: zola --version
+
       - name: Build site
         run: zola build
 
