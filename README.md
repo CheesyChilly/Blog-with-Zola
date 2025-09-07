@@ -1,4 +1,4 @@
-# My Zola Blog
+# Blogged by Ankit
 
 Welcome to my personal blog! ✨  
 Built with [Zola](https://www.getzola.org/) — a fast SSG (Static Site Generator) written in Rust.  
