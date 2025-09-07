@@ -27,7 +27,7 @@ highlight_theme = "OneHalfLight"
 mode = "auto"
 
 # interal CDN resource
-useCDN = false
+useCDN = true
 
 favicon = "icon/favicon.png"
 
