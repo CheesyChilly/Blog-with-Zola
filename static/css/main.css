@@ -6,7 +6,7 @@
   --hovercolor: navy;
   --darkMaincolor: #94e2d5;
   --subtext: #7f849c;
-  --headingcolor:#a6e3a1;
+  --headingcolor: #a6e3a1;
 }
 
 html {
@@ -46,7 +46,7 @@ body {
 }
 
 p {
-  font-family: 'Fira Sans', sans-serif;
+  font-family: "Fira Sans", sans-serif;
   line-height: 1.5;
 }
 
@@ -149,6 +149,7 @@ h3,
 h4,
 h5,
 h6 {
+  font-family: "DMSerifDisplay", serif;
   font-size: 1.2rem;
   margin-top: 2em;
 }
@@ -240,7 +241,7 @@ article .title {
 }
 
 .callout p {
-  font-family: 'IBM Plex Mono', monospace;
+  /* font-family: 'IBM Plex Mono', monospace; */
   margin: 0;
 }
 
