@@ -1,6 +1,5 @@
 # The URL the site will be built for
-base_url = "https://CheesyChilly.github.io"
-
+base_url = "https://cheesychilly.github.io/"
 # The site title and description; used in feeds by default.
 title = "Blogged by Ankit"
 description = "Helloo there, this is where I keep my thoughts, stories, facts and everything in between."
