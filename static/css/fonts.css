@@ -42,9 +42,8 @@
 
 /* DMSerifDisplay */
 @font-face {
-  font-family: "DMSerifDisplay";
+  font-family: "DM Serif Display";
   font-style: normal;
   font-weight: 400;
-  src: local("DMSerifDisplay"),
-    local("DMSerifDisplay") url("../fonts/DMSerifDisplay-Regular.ttf") format("truetype");
+  src: url("../fonts/DMSerifDisplay-Regular.ttf") format("truetype");
 }
