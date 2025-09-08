@@ -1,6 +1,6 @@
 +++
 title = "About Me🫡"
-date = "2025-09-06"
+date = "2025-07-06"
 path = "about"
 +++
 

@@ -1,6 +1,6 @@
 +++
 title = "Cybersecurity — in Pop Culture vs “Reality”"
-date = "2025-09-07"
+date = "2025-07-07"
 description = "When it comes to hacking in pop culture, we’re used to flashy interfaces, green code pouring down like rain, and someone screaming, “I’m in!” But then Mr. Robot arrived — gritty, grounded, and almost too real."
 
 [taxonomies]

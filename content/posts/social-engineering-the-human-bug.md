@@ -1,6 +1,6 @@
 +++
 title = "Social Engineering: The Human Bug in the Cybersecurity System"
-date = "2025-06-10"
+date = "2025-08-10"
 description = "Cybersecurity isn't just about firewalls and encryption. It's about understanding people - their emotions, reactions, and how easily trust can be manipulated."
 
 [taxonomies]
