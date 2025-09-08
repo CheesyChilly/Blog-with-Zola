@@ -1,8 +1,8 @@
 # The URL the site will be built for
 base_url = "https://cheesychilly.github.io/"
 # The site title and description; used in feeds by default.
-title = "Blogged by Ankit"
-description = "Helloo there, this is where I keep my thoughts, stories, facts and everything in between."
+title = "Blogged by Ankit👾"
+description = "Helloo there 🎃, this is where I keep my thoughts, stories, facts and everything in between."
 
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = true
@@ -70,6 +70,6 @@ url = "https://github.com/CheesyChilly"
 #url = "https://github.com/XXXMrG/"
 
 [[extra.social]]
-icon = "gitlab"
-name = "GitLab"
-url = "https://gitlab.com/your-name/"
+icon = "mail"
+name = "Email"
+url = "mailto:ankitbose.1011@gmail.com"
