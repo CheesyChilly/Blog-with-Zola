@@ -2,29 +2,22 @@
 
 <!DOCTYPE html>
 <html lang="{{lang}}">
-  {% set current_path = "/404" %}
-  {% include "partials/header.html" %}
+  {% set current_path = "/404" %} {% include "partials/header.html" %}
 
-<body>
+  <body>
     <div class="content">
-        {% include "partials/head.html" %}
-
-        {% block main_content %}
-        <main class="list">
-            <div class="site-description">
-                {% if config.description %}
-                    {{ config.description | markdown | safe }}
-                {% endif %}
-            </div>
-
-            <h1>404 - Page Not Found</h1>
-            <p>Sorry, the page you are looking for does not exist.</p>
-            <a href="{{ config.base_url }}">Return to Home</a>
-        </main>
-        {% endblock main_content %}
-
-        {% include "partials/footer.html" %}
+      {% include "partials/head.html" %} {% block main_content %}
+      <main class="list errorbox">
+        <div class="site-description">
+          {% if config.description %} {{ config.description | markdown | safe }} {% endif %}
+        </div>
+        <div class="errortext">
+          <h1>404 - Page Not Found</h1>
+          <p>Sorry, the page you are looking for does not exist.</p>
+          <a href="{{ config.base_url }}">Return to Home</a>
+        </div>
+      </main>
+      {% endblock main_content %} {% include "partials/footer.html" %}
     </div>
-</body>
-
+  </body>
 </html>

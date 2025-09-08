@@ -69,7 +69,7 @@ url = "https://github.com/CheesyChilly"
 #name = "Twitter"
 #url = "https://github.com/XXXMrG/"
 
-#[[extra.social]]
-#icon = "gitlab"
-#name = "GitLab"
-#url = "https://gitlab.com/your-name/"
+[[extra.social]]
+icon = "gitlab"
+name = "GitLab"
+url = "https://gitlab.com/your-name/"
