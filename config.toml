@@ -31,7 +31,7 @@ mode = "auto"
 # interal CDN resource
 useCDN = true
 
-favicon = "icon/favicon.png"
+favicon = "/icon/favicon.png"
 
 copyright = "ankitbose"
 
