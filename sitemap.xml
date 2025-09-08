@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://cheesychilly.github.io/</loc>
+    </url>
+    <url>
+        <loc>https://cheesychilly.github.io/about/</loc>
+        <lastmod>2025-07-06</lastmod>
+    </url>
+    <url>
+        <loc>https://cheesychilly.github.io/page/1/</loc>
+    </url>
+    <url>
+        <loc>https://cheesychilly.github.io/posts/</loc>
+    </url>
+    <url>
+        <loc>https://cheesychilly.github.io/posts/cybersecurity-in-popculture/</loc>
+        <lastmod>2025-07-07</lastmod>
+    </url>
+    <url>
+        <loc>https://cheesychilly.github.io/posts/social-engineering-the-human-bug/</loc>
+        <lastmod>2025-08-10</lastmod>
+    </url>
+    <url>
+        <loc>https://cheesychilly.github.io/tags/</loc>
+    </url>
+    <url>
+        <loc>https://cheesychilly.github.io/tags/cybersecurity/</loc>
+    </url>
+    <url>
+        <loc>https://cheesychilly.github.io/tags/pop-culture/</loc>
+    </url>
+</urlset>
